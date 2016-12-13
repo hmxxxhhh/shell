@@ -3,10 +3,10 @@
 # general define 
 DEALER_NAME_MAP=(
 	"168:公开版"
-	"00708:东兴"
-    "00024:方正"
-    "00666:华宝"
-    "00015:海通"
+	"12121:东兴"
+    "2133:方正"
+    "2233:华宝"
+    "21213:海通"
 )
 DEALER_NAME=""
 
@@ -36,8 +36,8 @@ echo "\n${REDC}env variable TMPDIR empty！${NC}\n" && exit 0
 fi
 
 ####
-GIT_REPO_ADDR="https://git.mitake.com.cn/CrystalRD1/MApi.git"
-SAMPLE_GIT_REPO_ADDR="https://git.mitake.com.cn/CrystalRD1/MApiSample.git"
+GIT_REPO_ADDR="https://www.baidu.com/CrystalRD1/MApi.git"
+SAMPLE_GIT_REPO_ADDR="https://www.baidu.com/CrystalRD1/MApiSample.git"
 
 cd $TMPDIR
 echo "`pwd`"
