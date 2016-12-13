@@ -126,7 +126,7 @@ if [ $INPUT_FLOW -eq 5 ]
 then
 read -p "Bundle Id (press enter set default):" input_bundle_id
 if [[ -z $input_bundle_id ]]; then
-	input_bundle_id="com.mitake.public.CrystalTouch"
+	input_bundle_id="com.bfsdfsd.com"
 fi
 INPUT_FLOW=6
 fi
@@ -136,7 +136,7 @@ if [ $INPUT_FLOW -eq 6 ]
 then
 read -p "App Key (press enter set default):" input_app_key
 if [[ -z $input_app_key ]]; then
-	input_app_key="Vv7UoNqBKohrvYs0a+8Y+YoM1ZthBmVJFzW1fmeJBNk="
+	input_app_key="Vv7UoNqBKohrvYs0a+8YsdfsdfsdfsdmVJFzW1fmeJBNk="
 fi
 INPUT_FLOW=7
 fi
