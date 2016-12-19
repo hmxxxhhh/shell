@@ -2,6 +2,7 @@
 给对方
 就哦就
 弄
+黑乎乎
 
 #!/bin/bash
 buildDay=$(date +%Y%m%d)
