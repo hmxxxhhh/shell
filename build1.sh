@@ -1,4 +1,5 @@
 测色1
+给对方
 
 #!/bin/bash
 buildDay=$(date +%Y%m%d)
