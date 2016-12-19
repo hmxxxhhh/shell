@@ -1,3 +1,5 @@
+测色1
+
 #!/bin/bash
 buildDay=$(date +%Y%m%d)
 
