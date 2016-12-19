@@ -1,7 +1,7 @@
 测色1
 给对方
 就哦就
-弄
+弄谁的粉丝的
 
 #!/bin/bash
 buildDay=$(date +%Y%m%d)
